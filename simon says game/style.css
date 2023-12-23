@@ -1,0 +1,59 @@
+body {
+    text-align: center;
+}
+
+.btn {
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid #000;
+    margin: 1.5rem;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+}
+
+.red {
+    background-color: #d95980;
+}
+.redd {
+    background-color: #f00;
+}
+.yellow {
+    background-color: #f99b45;
+}
+.green {
+    background-color: #63aac0;
+}
+.purple {
+    background-color: #819ff9;
+}
+.flash {
+    background-color: #fff;
+}
+.userflash {
+    background-color: #0f0;
+}
+.rule {
+    text-align: start;
+    position: relative;
+    bottom: 50vh;
+    left: 10px;
+}
+.score {
+    text-align: start;
+    position: relative;
+    bottom: 80vh;
+    left: 70vw;
+    border: 2px solid #000;
+    border-radius: 15px;
+    width: 200px;
+    padding: 1em;
+}
+.add {
+    background-color: cornflowerblue;
+    color: #fff;
+    margin: 1em 0 0 0;
+}
